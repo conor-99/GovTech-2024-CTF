@@ -1,1 +1,1 @@
-# GovTech-2024-CTF
+# GovTech 2024 CTF: Finals
